@@ -1,0 +1,6 @@
+{
+  "name": "RockGuard",
+  "description": "AI-Powered Early Warning for Mine & Slope Safety",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
